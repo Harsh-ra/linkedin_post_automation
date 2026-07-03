@@ -1,0 +1,14 @@
+{
+  "name": "daily-social-posts-pipeline",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Unified daily pipeline: LinkedIn (full set, scheduled) + Instagram (1 carousel + 1 reel, direct-posted), same theme, delivered to one Slack channel. Type 'schedule' in Slack to publish.",
+  "scripts": {
+    "ig:carousel": "node instagram/build_ig_carousel.cjs",
+    "ig:reel": "node instagram/build_ig_reel.cjs",
+    "daily": "bash run_daily.sh"
+  },
+  "dependencies": {
+    "puppeteer-core": "^25.2.1"
+  }
+}

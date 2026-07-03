@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+
+# Generated output & logs
+output/
+logs/
+instagram/.tmp/
+*.lock
+slack_trigger_state.json
+ig-*.png
+ig-reel-*.png
+
+# Secrets — never commit real credentials (keep .env.example only)
+.env
+.env.*
+**/.env
+**/.env.*
+!.env.example
+!**/.env.example
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Python
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo

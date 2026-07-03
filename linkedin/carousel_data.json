@@ -1,0 +1,62 @@
+{
+  "1": {
+    "HEADER_LABEL": "AI DEGRADATION",
+    "HOOK_PART_1": "Is ChatGPT",
+    "HOOK_PART_2": "getting",
+    "HOOK_EMPHASIS": "DUMBER?",
+    "SUBTITLE": "Long-term users notice a concerning decline in model quality with each new update."
+  },
+  "2": {
+    "PILL_LABEL": "USER FEEDBACK",
+    "EYEBROW": "OBSERVATION",
+    "HEADLINE_PART_1": "Consistent Decline",
+    "HEADLINE_PART_2": "in Model",
+    "HEADLINE_EMPHASIS": "Quality",
+    "SUBHEAD": "One user reports a steady drop in ChatGPT's performance since its launch.",
+    "BODY_TEXT": "Despite positive UI and features, the core AI output is reportedly worsening with updates."
+  },
+  "3": {
+    "HEADER_LABEL": "PERFORMANCE",
+    "HUGE_STAT": "LESS",
+    "CIRCLE_WORD_1": "Coherent",
+    "CIRCLE_WORD_2": "Accurate",
+    "HEADLINE_PART_1": "Once the",
+    "HEADLINE_PART_2": "Gold",
+    "HEADLINE_EMPHASIS": "Standard",
+    "BODY_TEXT": "Compared to other AI models, ChatGPT's responses feel 'dumber' and show noticeable flaws."
+  },
+  "4": {
+    "PILL_LABEL": "USER IMPACT",
+    "EYEBROW": "FRUSTRATION",
+    "HEADLINE_PART_1": "Increased User",
+    "HEADLINE_PART_2": "Workload &",
+    "HEADLINE_EMPHASIS": "Effort",
+    "SUBHEAD": "Reliable AI now requires more verification and careful prompting.",
+    "BODY_TEXT": "Users relying on AI for complex tasks find themselves needing to double-check and refine more often."
+  },
+  "5": {
+    "HEADER_LABEL": "SPECULATION",
+    "HUGE_STAT": "MORE",
+    "CIRCLE_WORD_1": "Safe",
+    "CIRCLE_WORD_2": "Aligned",
+    "HEADLINE_PART_1": "Safety vs.",
+    "HEADLINE_PART_2": "Utility",
+    "HEADLINE_EMPHASIS": "Trade-off?",
+    "BODY_TEXT": "OpenAI may be limiting capabilities for 'safer' outputs, sacrificing creative freedom and nuance."
+  },
+  "6": {
+    "HEADER_LABEL": "MARKET TREND",
+    "HUGE_STAT": "NEW",
+    "HEADLINE_PART_1": "Users Seek",
+    "HEADLINE_PART_2": "Better",
+    "HEADLINE_EMPHASIS": "Alternatives",
+    "SUBHEAD": "The perceived decline pushes users to explore other AI tools.",
+    "BODY_TEXT": "This trend highlights the competitive nature of the AI market and demand for consistent quality."
+  },
+  "7": {
+    "HEADLINE_PART_1": "The AI",
+    "HEADLINE_PART_2": "Dilemma:",
+    "HEADLINE_EMPHASIS": "Quality vs. Safety",
+    "SUBHEAD": "How do developers balance alignment with raw performance to maintain user loyalty?"
+  }
+}

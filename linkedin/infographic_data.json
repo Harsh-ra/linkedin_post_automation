@@ -1,0 +1,42 @@
+{
+  "title_main": "AI & The Tech Job",
+  "title_span": "Boom",
+  "subtitle": "Engineering jobs are seeing increased share of new hires despite AI integration fears.",
+  "badge": "\ud83d\udcca Engineering Report",
+  "date_label": "October 2023 Report",
+  "takeaway_num": "64%",
+  "takeaway_text": "of tech leaders believe AI will create more new jobs than it eliminates.",
+  "source": "Source: TechCrunch AI | @harshrajpathak",
+  "bars": [
+    {
+      "label": "Software Engineers",
+      "value": "95%",
+      "color": "#E63946"
+    },
+    {
+      "label": "Data Scientists",
+      "value": "80%",
+      "color": "#D9785B"
+    },
+    {
+      "label": "AI/ML Engineers",
+      "value": "75%",
+      "color": "#E8A33D"
+    },
+    {
+      "label": "Cloud Architects",
+      "value": "64%",
+      "color": "#5E6AD2"
+    },
+    {
+      "label": "DevOps Engineers",
+      "value": "63%",
+      "color": "#5A5A5A"
+    },
+    {
+      "label": "Cybersecurity Analysts",
+      "value": "40%",
+      "color": "#111111"
+    }
+  ]
+}

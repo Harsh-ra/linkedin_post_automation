@@ -1,0 +1,93 @@
+==================================================
+5. POST 1
+==================================================
+Headline: Your next app might be built by three AI agents working in parallel
+
+MWM AI just launched something worth paying attention to.
+
+Their new "AI Mobile Squad" puts three specialized agents to work at once: a Designer, a Product Manager, and a Developer. Each one handles its own lane, and together they produce production-ready apps in minutes, not months.
+
+That's not a prototype. Not a wireframe. A deployable app.
+
+For context, a small team might spend weeks just aligning on specs before a single line of code gets written. This collapses that entire process into a single session.
+
+Solo founders without a technical background can now bring a product idea to life without hiring a development team. Small businesses can test an app concept before committing serious budget. Agencies can move from pitch to demo faster than ever before.
+
+The part Prithal finds most interesting here is the coordination layer. These aren't three separate tools. They're designed to work together, passing context between roles the way a real team would. That's a meaningful step beyond a single AI assistant trying to do everything alone.
+
+It won't replace the judgment of an experienced product team on a complex build. But for speed, for early validation, for getting something real in front of users quickly? This is a serious option now.
+
+If you want to see what it produces, link in comments.
+
+What's the first app idea you'd hand to a three-agent squad if you could test it today?
+
+Tool featured: MWM AI Mobile Squad
+Source: MWM AI
+Archetype: Tool Spotlight | Emotion: WOW
+Why this works: Grounds an exciting technical claim in concrete human consequences (time, cost, access) and uses the team coordination angle to make the "so what" feel specific and earned rather than hype-driven.
+Word count: 248 words
+
+==================================================
+6. POST 2
+==================================================
+Headline: Five AI stories from this week that actually matter beyond the headlines
+
+A lot happened between June 1 and 4. Here's the quick version, with context.
+
+**Anthropic filed confidentially for an IPO.**
+The company behind Claude is preparing to go public. That means the AI safety conversation is about to meet Wall Street pressure. Worth watching how that changes priorities.
+
+**IBM and Google Cloud announced a partnership to scale enterprise agents.**
+Two of the biggest names in business technology are building shared infrastructure for AI that runs inside large organizations. More on this in tomorrow's breakdown post.
+
+**S&P Global launched a Credit Memo Builder.**
+Their new agentic platform automates the document-heavy process banks use when evaluating loans. Analysts get a first draft in minutes instead of spending days pulling data manually.
+
+**NVIDIA announced RTX Spark chips for small PCs.**
+These are designed to run demanding AI workloads on compact, affordable machines rather than requiring server racks. That matters for smaller companies that want AI capability without enterprise infrastructure costs.
+
+**DARPA and NSF launched AI Forge.**
+A joint program focused on developing AI systems that can assist with scientific research and discovery. The goal is accelerating how fast humans can run experiments and interpret results across fields like medicine and materials science.
+
+Five stories. Each one quiet on the surface, consequential underneath.
+
+Which of these five do you think will have the most visible impact on everyday work by the end of 2026?
+
+Tools/stories featured: Anthropic, IBM, Google Cloud, S&P Global Credit Memo Builder, NVIDIA RTX Spark, DARPA/NSF AI Forge
+Source: Multiple public announcements, June 1-4 2026
+Archetype: Weekly Roundup | Emotion: OHHH
+Why this works: Uses bold subheadings to create scannable rhythm, applies the "so what" rule to each item without padding, and keeps tone curious rather than breathless so each story feels genuinely worth noting.
+Word count: 268 words
+
+==================================================
+7. POST 3
+==================================================
+Headline: IBM and Google Cloud are teaming up on AI for big companies. Here's what that actually means.
+
+Two tech giants announced a partnership this week. The press release used a lot of corporate language. Prithal translated it.
+
+Here's the plain version.
+
+Large companies, think banks, insurers, manufacturers, already use IBM software to run core operations. They've been cautious about adding AI because it needs to work reliably inside complex, regulated environments, not just in a demo.
+
+Google Cloud brings the infrastructure and AI capability. IBM brings decades of enterprise relationships and the trust that comes with them.
+
+Together, they're building a shared platform where businesses can deploy AI agents, meaning software that can complete multi-step tasks autonomously, inside the systems they already use. Not bolted on the side. Actually integrated.
+
+The concrete benefit? A bank could have an AI agent that reviews documents, flags issues, and routes decisions to the right person, all without a human manually moving things along. That frees up staff for work that actually needs human judgment.
+
+Now, the honest caveat.
+
+This kind of partnership sounds big at announcement. Actually getting it running inside a Fortune 500 company, where legacy systems, compliance teams, and procurement cycles are all involved, takes years, not quarters. The vision is real. The timeline is slower than the press release implies.
+
+So the opportunity is genuine. The speed of adoption is not guaranteed.
+
+It's worth following how many actual deployments are live by mid-2027, not just how many are "planned."
+
+If you work in enterprise tech, how long does it typically take your organization to go from announced partnership to live deployment?
+
+Tools/stories featured: IBM, Google Cloud
+Source: IBM and Google Cloud public announcement, June 2026
+Archetype: Plain English Breakdown | Emotion: OHHH
+Why this works: Builds credibility by including a genuine limitation rather than pure enthusiasm, uses the translation framing to create a clear narrative arc, and closes with a question that invites practitioners to share real experience rather than speculation.
+Word count: 295 words

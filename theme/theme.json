@@ -1,0 +1,23 @@
+{
+  "_comment": "Single source of truth for the Harsh Raj Pathak visual system. Mirrors linkedin/skills/branded-carousel templates so Instagram assets match LinkedIn pixel-for-pixel.",
+  "brand": "#5E6AD2",
+  "ink": "#111111",
+  "cream": "#F8F7F3",
+  "muted": "#555555",
+  "muted2": "#333333",
+  "faint": "#999999",
+  "dark": "#030712",
+  "fonts": {
+    "sans": "Plus Jakarta Sans",
+    "sansWeights": "500;600;700;800;900",
+    "serif": "Instrument Serif",
+    "serifAxis": "ital@1",
+    "googleHref": "https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800;900&family=Instrument+Serif:ital@1&display=swap"
+  },
+  "handle": "@harshrajpathak",
+  "sizes": {
+    "linkedinSquare": [1080, 1080],
+    "instagramCarousel": [1080, 1350],
+    "instagramReel": [1080, 1920]
+  }
+}
