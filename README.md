@@ -3,6 +3,13 @@
 Every day at **11:00 AM** it generates the LinkedIn batch and delivers it to one Slack
 channel. When you type **`schedule`** in Slack, it schedules the LinkedIn posts.
 
+<p align="center">
+  <img src="assets/pipeline-flow.svg" alt="Animated pipeline flow: Research → Generate → Build → Deliver to Slack → Schedule → Live on LinkedIn" width="100%">
+</p>
+
+<details>
+<summary>Text version of the flow</summary>
+
 ```
 11:00 AM (launchd)                          You type "schedule" in Slack
    │                                              │
@@ -10,6 +17,8 @@ channel. When you type **`schedule`** in Slack, it schedules the LinkedIn posts.
    │  (proven engine, ~/linkedin-pipeline)
    └─ deliver to Slack ───────────────┘  #linkedin-content
 ```
+
+</details>
 
 ## Layout
 
